@@ -1,6 +1,7 @@
 
 # ▣ Exploration Project
 
+<hr>
 
 |No.|Exploration Project|Link|
 |---|-------|----|
