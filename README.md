@@ -13,4 +13,7 @@
 |06|작사가 인공지능 만들기|[github](https://github.com/gem-ruby/ExplorationProject/blob/main/%5BEXP_06%5D_lyricist_is_an_AI.ipynb)|
 |07|카메라 스티커앱 만들기 첫걸음|[google](https://colab.research.google.com/drive/1PY8wXnKpLzCgN22-6RvStf40GEON7eGf)|
 |08|영화리뷰 텍스트 감성분석하기|[github](https://github.com/gem-ruby/ExplorationProject/blob/main/%5BEXP_08%5D_Analyzing_movie_review_text_sentiment.ipynb)|
-|09|인물사진을 만들어 보자|진행중|
+|09|인물사진을 만들어 보자|[google](https://colab.research.google.com/drive/1KNRwltUO0_dDz3880G0Ml07LGTE13exg)|
+|10|번역기를 만들어보자|진행중|
+|11|인공지능으로 세상에 없던 새로운 패션 만들기|진행중|
+
