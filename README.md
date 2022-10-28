@@ -15,6 +15,6 @@
 |08|영화리뷰 텍스트 감성분석하기|[GitHub](https://github.com/gem-ruby/ExplorationProject/blob/main/%5BEXP_08%5D_Analyzing_movie_review_text_sentiment.ipynb)|
 |09|인물사진을 만들어 보자|[Google](https://colab.research.google.com/drive/1KNRwltUO0_dDz3880G0Ml07LGTE13exg)|
 |10|번역기를 만들어보자|[GitHub](https://github.com/gem-ruby/ExplorationProject/blob/main/%5BEXP_10%5D_Lets_make_a_translator.ipynb)|
-|11|인공지능으로 세상에 없던 새로운 패션 만들기|진행중|
+|11|인공지능으로 세상에 없던 새로운 패션 만들기|[Google](https://colab.research.google.com/drive/1xlwyFdyElxvWmj5nu2LkQqJCEV1tVYZX)|
 |12|뉴스 요약봇 만들기|준비중|
 
