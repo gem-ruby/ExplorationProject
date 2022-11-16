@@ -5,7 +5,7 @@
 
 |#|Exploration Project|Link|
 |---|-------|----|
-|01|Iris의 세 가지 품종, 분류해볼 수 있겠어요？|[GitHub](https://github.com/gem-ruby/ExplorationProject/blob/main/%5BEXP_01%5D_Classification%20of%203%20datasets%20using%20scikit-learn%20library.ipynb)|
+|01|Iris의 세 가지 품종, 분류해볼 수 있겠어요？|[🔗GitHub](https://github.com/gem-ruby/ExplorationProject/blob/main/%5BEXP_01%5D_Classification%20of%203%20datasets%20using%20scikit-learn%20library.ipynb)|
 |02|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명？|[GitHub](https://github.com/gem-ruby/ExplorationProject/blob/main/%5BEXP_02%5D_On_a_fine_Monday_at_3pm%2C_how_many_bikers_are_there.ipynb)|
 |03|나의 첫 번째 캐글 경진대회, 무작정 따라해보기|[GitHub](https://github.com/gem-ruby/ExplorationProject/blob/main/%5BEXP_03%5D_My_first_Kaggle_competition_just_follow_along.ipynb)|
 |04|어제 오른 내 주식, 과연 내일은？|[GitHub](https://github.com/gem-ruby/ExplorationProject/blob/main/%5BEXP_04%5D_My_stock_went_up_yesterday%2C_what_about_tomorrow.ipynb)|
