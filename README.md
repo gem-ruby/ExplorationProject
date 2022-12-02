@@ -22,5 +22,6 @@
 |15|문자를 읽을 수 있는 딥러닝|[Google🔗](https://nbviewer.org/urls/drive.google.com/uc/%3Fexport%3Ddownload%26id%3D1KgFEmKa395W-GyDx1TNWDx8C-Mqb0z5Z)|⭐⭐⭐|🏆|
 |16|난 스케치를 할 테니 너는 채색을 하거라|[GitHub🔗](https://github.com/gem-ruby/ExplorationProject/blob/main/%5BEXP_16%5D_pix2pix_coloring.ipynb)|⭐⭐⭐|🏆|
 
+<br>
 
-
+- Rublic, Excellent node All complete. (2022-12-01)
