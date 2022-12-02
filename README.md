@@ -24,4 +24,4 @@
 
 <br>
 
-- Rublic, Excellent node All complete. (2022-12-01)
+- Rubric, Excellent node All complete. (2022-12-01)
